@@ -81,3 +81,7 @@ include vendor/custom/config/ota.mk
 
 # Version
 include vendor/custom/config/version.mk
+
+# GM stuff:
+# Translations
+include vendor/overlays/translations/config.mk
